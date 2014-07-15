@@ -1,0 +1,6 @@
+ {:name "pinboard"
+ :version "0.0.1"
+ :author "dms"
+ :source ""
+ :desc "a tab to post widgets"
+ :behaviors "pinboard.behaviors"}

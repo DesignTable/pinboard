@@ -1,0 +1,4 @@
+{:+ {:app [(:lt.objs.plugins/load-js ["pinboard_compiled.js"])
+           (:lt.objs.plugins/load-keymap "pinboard.keymap")]
+     :pinboard.panel [:pinboard.pintab/destroy-on-close]}
+}
